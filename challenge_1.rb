@@ -15,4 +15,3 @@ end
 # was .each (to call on every element inside the array assigned to shoe_brands), and 
 # .length (to only call on the elements whose character length equals 4). The final output when printed
 # will be: "Nike", "Puma", and "Vans". 
-# END. 
